@@ -83,16 +83,6 @@ Welcome to the **SECCON Chat Application**! 🚀 This secure messaging platform 
 
 5. **Enjoy Secure Communication**: Chat securely with selected algorithms and see real-time updates.
 
-## 📸 Screenshots
-
-![Login Screen](docs/screenshots/login.png)
-*Login Interface with Multifactor Authentication*
-
-![Chat Window](docs/screenshots/chat.png)
-*Modern Chat Interface with Encryption Options*
-
-![Server Dashboard](docs/screenshots/server-dashboard.png)
-*Server Dashboard for Managing Connections*
 
 ## 🤝 Contributing
 
