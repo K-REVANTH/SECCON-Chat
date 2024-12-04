@@ -33,7 +33,7 @@ Welcome to the **SECCON Chat Application**! 🚀 This secure messaging platform 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/aakulz/seccon-chat-app.git
+    git clone https://github.com/K-REVANTH/SECCON-Chat.git
     ```
 
 2. **Navigate to the Project Directory:**
